@@ -1,16 +1,43 @@
-### This Is a Test 👋
+# 🦝 Howdy, Welcome to my profile
 
-<!--
-**Shedhatch/Shedhatch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>🟠 Busy</summary><br>
+  
+ > I am currently working on improving my Github page.
+
+</details>
+
+## Me, I and myself
+
+Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. I'm currently learning programming through university courses and I'm undertaking my third year of university. 
+I'm open to suggestions and ideas to improve my code and/or my Github profile. Feel free to open an issue If you need to share some super cool tips with me!
+
+
+## Learned Languages
+
+```php
+echo ("Php");
+```
+```js
+console.log("JavaScript");
+```
+```html
+<p>Html</p>
+```
+```css
+.Shedhatch {
+  content: "Css";
+}
+```
+## Featured projets (- In progress...)
+
+[Clear.js]([README_2.md](https://github.com/Shedhatch/Clear))
+
+## Featured Github profiles
+
+- <a href=https://github.com/Skulrag>Skulrag </a>
+- <a href=https://github.com/Darkneew>Darkneew </a>
+- <a href=https://github.com/TPJEEMIAGE>Tolsyak </a>
