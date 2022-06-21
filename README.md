@@ -1,4 +1,4 @@
-# 🦝 Howdy, Welcome to my profile
+# 🦝 Howdy, welcome to my profile !
 
 
 ## Current status
