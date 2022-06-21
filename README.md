@@ -32,6 +32,9 @@ console.log("JavaScript");
   content: "Css";
 }
 ```
+```sql
+SELECT language AS sql FROM table;
+```
 ```vue
 <template>
 <button @click="alertMe">Framework here!</button>
