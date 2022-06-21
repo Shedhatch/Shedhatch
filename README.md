@@ -16,7 +16,7 @@ Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. I'm
 I'm open to suggestions and ideas to improve my code and/or my Github profile. Feel free to open an issue If you need to share some super cool tips with me!
 
 
-## Learned Languages
+## Learned Languages / Frameworks
 
 ```php
 echo ("Php");
@@ -31,6 +31,21 @@ console.log("JavaScript");
 .Shedhatch {
   content: "Css";
 }
+```
+```vue
+<template>
+<button @click="alertMe">Framework here!</button>
+</template>
+
+<script>
+export default {
+  methods: {
+   alertMe: function () {
+      alert("VueJs");
+    },
+  },
+};
+</script>
 ```
 ## Featured projets (In progress...)
 
