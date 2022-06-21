@@ -32,9 +32,13 @@ console.log("JavaScript");
   content: "Css";
 }
 ```
-## Featured projets (- In progress...)
+## Featured projets (In progress...)
 
-[Clear.js]([README_2.md](https://github.com/Shedhatch/Clear))
+- Created Clear.Js (Discord.js)<br>
+<a href=https://github.com/Shedhatch/Clear>Clear.js </a>
+
+- Contributed to A FiveM french home hosted server for the video-game Grand Theft Auto 5<br>
+<a href=https://github.com/Skulrag/unknown-story>Unknown Story </a>
 
 ## Featured Github profiles
 
