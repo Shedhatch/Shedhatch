@@ -10,10 +10,10 @@
 
 </details>
 
-## Me, I and myself
+## Me, myself and I
 
-Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. I'm currently learning programming through university courses. 
-I'm currently undertaking my third year of university. 
+Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. 
+I'm currently learning programming through university courses. I'm undertaking my third year of university as a dual student switching between university and my office. 
 I'm open to suggestions and ideas to improve my code and/or my Github profile. Feel free to open an issue If you need to share some super cool tips with me!
 
 
