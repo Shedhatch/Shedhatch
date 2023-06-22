@@ -4,9 +4,9 @@
 ## Current status
 
 <details>
-  <summary>🟠 Busy</summary><br>
+  <summary>🟢 Available</summary><br>
   
- > I am currently working on improving my Github page.
+ > I am currently available !
 
 </details>
 
