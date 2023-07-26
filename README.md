@@ -1,15 +1,5 @@
 # 🦝 Howdy, welcome to my profile !
 
-
-## Current status
-
-<details>
-  <summary>🟢 Available</summary><br>
-  
- > I am currently available !
-
-</details>
-
 ## Me, myself and I
 
 Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. 
@@ -61,6 +51,5 @@ export default {
 
 ## Featured Github profiles
 
-- <a href=https://github.com/Skulrag>Skulrag </a>
 - <a href=https://github.com/Darkneew>Darkneew </a>
 - <a href=https://github.com/TPJEEMIAGE>Tolsyak </a>
