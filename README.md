@@ -1,5 +1,8 @@
 # 🦝 Howdy, welcome to my profile !
 
+Public note :
+I'll be updating my page within the coming weeks
+
 ## Me, myself and I
 
 Hey there I'm [@Shedhatch](https://github.com/Shedhatch) but call me Adrien. 
