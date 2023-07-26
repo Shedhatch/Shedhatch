@@ -47,10 +47,10 @@ export default {
 ## Featured projets (In progress...)
 
 - Created Clear.Js (Discord.js)<br>
-<a href=https://github.com/Shedhatch/Clear>Clear.js </a>
+<a href=https://github.com/Shedhatch/Clear>Have a look !</a>
 
 - Contributed to A FiveM french home hosted server for the video-game Grand Theft Auto 5<br>
-<a href=https://github.com/Skulrag/unknown-story>Unknown Story </a>
+<a href=https://github.com/Skulrag/unknown-story>Have a look !</a>
 
 ## Featured Github profiles
 
